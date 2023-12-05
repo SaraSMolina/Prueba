@@ -1,0 +1,73 @@
+table{
+	text-align:center;
+	background-color: lightskyblue;
+	opacity: 0.80;
+	width: 70%;
+}
+body{
+	background-image: url("fondo2.jpg");
+}
+/* unvisited link */
+a:link {
+  color: lightpink;
+}
+
+/* visited link */
+a:visited {
+  color: deeppink;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: pink;
+}
+.tamaño1{
+	width:100px;
+	height:100px;
+}
+.tamaño2{
+	width:450px;
+	height:350px;
+}
+table{
+	text-align:center;
+	background-color: lightskyblue;
+	opacity: 0.80;
+	width: 70%;
+}
+body{
+	background-image: url("fondo2.jpg");
+}
+
+/* unvisited link */
+a:link {
+  color: lightpink;
+}
+
+/* visited link */
+a:visited {
+  color: deeppink;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: pink;
+}
+.tamaño1{
+	width:100px;
+	height:100px;
+}
+.tamaño2{
+	width:450px;
+	height:350px;
+}
